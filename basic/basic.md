@@ -21,3 +21,8 @@ dan jika array di baca menggunakan len maka yang di hitung adalah berapa jumlah 
 
 6. tipe data slice, tipe data slice adalah dimana ini potongan dari array dan ada beberapa metod yang tersedia dalam slice ini yang dimana ada panjang dan kapasitas
 dimana kapasitas adalah jumalh mak dan jika 
+
+7. tipe data  map bisa di bilang ini yang paling mirip dengan menggunaakn array 
+karena dia berbasis keyvalue dan mungkin bisa berakar atau enggak kurang tau mungkin akan lebih menarik kedepan nya 
+
+8. untuk if sama aja kayak bahsa lain nggak ada perbedaan segnifikan 
