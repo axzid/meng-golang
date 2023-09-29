@@ -25,4 +25,12 @@ dimana kapasitas adalah jumalh mak dan jika
 7. tipe data  map bisa di bilang ini yang paling mirip dengan menggunaakn array 
 karena dia berbasis keyvalue dan mungkin bisa berakar atau enggak kurang tau mungkin akan lebih menarik kedepan nya 
 
-8. untuk if sama aja kayak bahsa lain nggak ada perbedaan segnifikan 
+8. untuk if sama aja kayak bahsa lain nggak ada perbedaan segnifikan mungkin ada tambahan di mana bisa di tambahkan short codition di dalam if di go 
+
+9. switch, untuk switch juga sama seperti bahasa lainya, mungkin ada 2 perbedaan yang membuat go di sini sedikit berbeda pertama bisa short codition seperti if juga dan setelah itu bisa melakukan switch 
+tanpa variable jadi langsug start switch dan start condition 
+
+10. for, untuk for juga sama dalam bahsa lain ada tambahan for range untuk iterasi array slice dan map 
+dan mungkin akan lebih sering menggunakan key value ini 
+
+11. 
