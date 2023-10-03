@@ -33,4 +33,10 @@ tanpa variable jadi langsug start switch dan start condition
 10. for, untuk for juga sama dalam bahsa lain ada tambahan for range untuk iterasi array slice dan map 
 dan mungkin akan lebih sering menggunakan key value ini 
 
-11. 
+11. function, pada golang function mengandung case sensitive dan besar kecil akan sangat amat memperngaruhi jadi lihatlah baik baik saat menamai function pada golang 
+
+12. function parameter, pada golang bisa menambahkan tipe data pada parameter dan ituharus di isi jika tidak di isi maka akan eror, selain itu tipe data yang harus di isikan juga sama dengan yang di deklarasikan di function 
+
+
+13. function return value, dimana jika di golang ini bisa untuk me return value tunggal maupun sigle 
+dan karena itu mungkin ini fitur yang baru dan nggak ada di bahasa lain, menarik mari kita coba
